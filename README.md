@@ -1,5 +1,5 @@
 # Predictive-model-challenge
-Online Challenge for developing a Predictive Model in GST
+Online Challenge for developing a Predictive Model on GST data
 
 Hackathon Reference site: https://event.data.gov.in/event/gst-analytics-hackathon/
 
